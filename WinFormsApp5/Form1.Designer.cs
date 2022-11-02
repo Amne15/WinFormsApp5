@@ -648,7 +648,7 @@
             this.Controls.Add(this.pRecogida);
             this.Controls.Add(this.lTitle);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Refresco Form";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picBoxCoca)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxFanta)).EndInit();
